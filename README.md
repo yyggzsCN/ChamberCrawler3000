@@ -1,6 +1,8 @@
 # **Game Overview**
 
 This game is a dungeon adventure game where the player explores different levels of a dungeon, fights enemies, and collects items to progress. The game is text-based and offers various character classes, each with unique abilities and strengths.
+# **Start**
+Run the exe file: `./cc3k`
 
 # **How the Game Works**
 
